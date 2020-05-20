@@ -1,0 +1,2 @@
+rootProject.name='DiuTube'
+include ':app'
